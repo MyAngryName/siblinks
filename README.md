@@ -72,6 +72,10 @@
 
 
 ## k8s
+* [Create Virtual Cluster](https://kubernetes.io/de/docs/setup/minikube/)
+* [Framework zum umstzen Security Policies in k8s Umgebungen](https://www.openpolicyagent.org/docs/v0.12.2/kubernetes-admission-control/)
+* [USeful Policies](https://kubernetes.io/docs/concepts/policy/pod-security-policy/)
+* [Offical Implemation Security Policies](https://github.com/open-policy-agent/gatekeeper-library)
 
 ## docker
 
