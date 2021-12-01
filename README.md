@@ -40,7 +40,20 @@
 ## online tools
 
 ## online games
+* https://krunker.io
 
 ## jobs
 
 ## subreddits
+
+## cheatsheets
+
+## memes
+
+## twitter accounts
+
+## privacy
+
+
+
+
