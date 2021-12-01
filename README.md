@@ -40,6 +40,7 @@
 ## online tools
 * [drawthe](http://go.drawthe.net/) Tool 
 ## online games
+* https://krunker.io
 
 ## jobs
 
@@ -55,3 +56,24 @@
   * Adguard
 ## Yubikey
 * [GPG/SSH with Yubikey](https://github.com/drduh/YubiKey-Guide)
+
+## cheatsheets
+
+## memes
+
+## twitter accounts
+
+## privacy
+
+## dev
+### python
+### java
+
+
+## k8s
+
+## docker
+
+
+
+
