@@ -44,6 +44,12 @@
 ## jobs
 
 ## subreddits
-* [Selfhosted](https://www.reddit.com/r/selfhosted/)
-* [Hacking Tutorials](https://www.reddit.com/r/Hacking_Tutorials/)
+* [r/Selfhosted](https://www.reddit.com/r/selfhosted/)
+* [r/Hacking Tutorials](https://www.reddit.com/r/Hacking_Tutorials/)
+* [r/Malware](https://www.reddit.com/r/Malware/)
 * 
+## selfhosted
+* DNS
+** PiHole
+*** [Block List](https://firebog.net/)  
+** Adguard
