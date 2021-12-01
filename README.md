@@ -3,25 +3,16 @@
 ## sib
 
 ## sec-news
-https://www.wired.com/category/security/
-
-https://portswigger.net/daily-swig
-
-https://risky.biz/
-
-https://therecord.media/news/cybercrime/
-
-https://www.forbes.com/
-
-https://www.vice.com/en/section/tech
-
-https://www.heise.de/security/
-
-https://www.exploit-db.com/
-
-https://futurezone.at/
-
-https://linuxsecurity.com
+* [wired.com](https://www.wired.com/category/security/)
+* [Daily-Swig](https://portswigger.net/daily-swig)
+* [Risky.biz](https://risky.biz/)
+* [Therecord](https://therecord.media/news/cybercrime/)
+* [Forbes](https://www.forbes.com/)
+* [Vice](https://www.vice.com/en/section/tech)
+* [Heise](https://www.heise.de/security/)
+* [Exploit-db](https://www.exploit-db.com/)
+* https://futurezone.at/
+* https://linuxsecurity.com
 
 ## thread intelligence
 
