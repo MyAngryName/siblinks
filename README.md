@@ -1,5 +1,31 @@
 # siblinks
 
+- [siblinks](#siblinks)
+  * [sib](#sib)
+  * [sec-news](#sec-news)
+  * [thread intelligence](#thread-intelligence)
+  * [home server](#home-server)
+  * [linux](#linux)
+  * [latex](#latex)
+  * [CI/CD](#ci-cd)
+  * [VPN](#vpn)
+  * [free stuff](#free-stuff)
+  * [pentesting](#pentesting)
+  * [books](#books)
+  * [sharing](#sharing)
+  * [public cloud](#public-cloud)
+  * [online tools](#online-tools)
+  * [online games](#online-games)
+  * [jobs](#jobs)
+  * [subreddits](#subreddits)
+  * [cheatsheets](#cheatsheets)
+  * [memes](#memes)
+  * [twitter accounts](#twitter-accounts)
+  * [privacy](#privacy)
+  * [dev](#dev)
+  * [k8s](#k8s)
+  * [docker](#docker)
+
 ## sib
 
 ## sec-news
