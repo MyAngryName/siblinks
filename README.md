@@ -50,6 +50,6 @@
 * 
 ## selfhosted
 * DNS
-** PiHole
-*** [Block List](https://firebog.net/)  
-** Adguard
+  * PiHole
+    * [Block List](https://firebog.net/)  
+  * Adguard
