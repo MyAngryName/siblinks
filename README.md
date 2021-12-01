@@ -13,7 +13,7 @@
 * [Exploit-db](https://www.exploit-db.com/)
 * [Futurezone](https://futurezone.at/)
 * [Linuxsecurity](https://linuxsecurity.com)
-* [Hacker News](https://news.ycombinator.com/)
+* [https://news.ycombinator.com/](Hacker news)
 
 ## thread intelligence
 
@@ -42,3 +42,5 @@
 ## online games
 
 ## jobs
+
+## subreddits
