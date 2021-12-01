@@ -38,13 +38,24 @@
 ## public cloud
 
 ## online tools
-
+* [drawthe](http://go.drawthe.net/) Tool 
 ## online games
 * https://krunker.io
 
 ## jobs
 
 ## subreddits
+* [r/Selfhosted](https://www.reddit.com/r/selfhosted/)
+* [r/Hacking Tutorials](https://www.reddit.com/r/Hacking_Tutorials/)
+* [r/Malware](https://www.reddit.com/r/Malware/)
+* 
+## selfhosted
+### DNS
+  * PiHole
+    * [Block List](https://firebog.net/)  
+  * Adguard
+## Yubikey
+* [GPG/SSH with Yubikey](https://github.com/drduh/YubiKey-Guide)
 
 ## cheatsheets
 
