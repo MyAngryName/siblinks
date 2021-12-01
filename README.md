@@ -49,7 +49,9 @@
 * [r/Malware](https://www.reddit.com/r/Malware/)
 * 
 ## selfhosted
-* DNS
+### DNS
   * PiHole
     * [Block List](https://firebog.net/)  
   * Adguard
+## Yubikey
+* [GPG/SSH with Yubikey](https://github.com/drduh/YubiKey-Guide)
