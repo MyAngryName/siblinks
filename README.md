@@ -38,9 +38,12 @@
 ## public cloud
 
 ## online tools
-
+* [drawthe](http://go.drawthe.net/) Tool 
 ## online games
 
 ## jobs
 
 ## subreddits
+* [Selfhosted](https://www.reddit.com/r/selfhosted/)
+* [Hacking Tutorials](https://www.reddit.com/r/Hacking_Tutorials/)
+* 
