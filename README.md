@@ -54,6 +54,12 @@
 
 ## privacy
 
+## dev
+
+## k8s
+
+## docker
+
 
 
 
