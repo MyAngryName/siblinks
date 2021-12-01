@@ -11,8 +11,9 @@
 * [Vice](https://www.vice.com/en/section/tech)
 * [Heise](https://www.heise.de/security/)
 * [Exploit-db](https://www.exploit-db.com/)
-* https://futurezone.at/
-* https://linuxsecurity.com
+* [Futurezone](https://futurezone.at/)
+* [Linuxsecurity](https://linuxsecurity.com)
+* [https://news.ycombinator.com/](Hacker news)
 
 ## thread intelligence
 
