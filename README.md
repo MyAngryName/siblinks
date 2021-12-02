@@ -38,10 +38,14 @@
 * [Publikationen des Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag](https://www.tab-beim-bundestag.de/de/publikationen/index.html) - diverse lesenswerte Berichte (Blackouts, AI, etc.)
 
 ## pentesting
+
 ### tools
 * [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [replit - free, collaborative, online IDE](https://replit.com/) - quick and easy scripts with custom domain
+* [webhook.site](https://webhook.site/#!/67f35dd1-a2db-4a0d-b518-915089f6efb9)
 
+## Malware
+* [vx-underground](https://samples.vx-underground.org/): Malware Samples and writups
 
 ## books
 ### fiction
@@ -87,11 +91,17 @@
 ## dev
 ### python
 * [Google Colab](https://colab.research.google.com/) - Python Notebooks online in der GCP
+* [Memory Management](https://towardsdatascience.com/memory-management-in-python-6bea0c8aecc9)
+
 ### java
 
 
 ## k8s
-
+* [Create Virtual Cluster](https://kubernetes.io/de/docs/setup/minikube/)
+* [Framework zum umstzen Security Policies in k8s Umgebungen](https://www.openpolicyagent.org/docs/v0.12.2/kubernetes-admission-control/)
+* [USeful Policies](https://kubernetes.io/docs/concepts/policy/pod-security-policy/)
+* [Offical Implemation Security Policies](https://github.com/open-policy-agent/gatekeeper-library)
+* [Lightweight Kubernetes K3s](https://k3s.io/)
 ## docker
 
 ## podcasts
