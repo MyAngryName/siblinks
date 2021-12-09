@@ -102,8 +102,9 @@
 * [USeful Policies](https://kubernetes.io/docs/concepts/policy/pod-security-policy/)
 * [Offical Implemation Security Policies](https://github.com/open-policy-agent/gatekeeper-library)
 * [Lightweight Kubernetes K3s](https://k3s.io/)
+* [Rasperry PIs](https://turingpi.com/) also Kubernetes cluster
+* [Kubectl Cheat Sheet](https://linuxacademy.com/site-content/uploads/2019/04/Kubernetes-Cheat-Sheet_07182019.pdf)
 ## docker
-
 ## podcasts
 * [Risky.biz](https://risky.biz/)
 * [Dan Carlin's Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
