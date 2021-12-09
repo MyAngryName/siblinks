@@ -59,6 +59,7 @@
 ## online tools
 * [drawthe](http://go.drawthe.net/) Tool 
 * [Excalidraw - Hand-drawn look & feel](https://excalidraw.com/) - Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+* [Cryptpad](https://cryptpad.fr/): Google Drive funktionen nur nicht von google und End-to-End Encrypted und mit der Option von Self-hosting
 ## online games
 * https://krunker.io
 
