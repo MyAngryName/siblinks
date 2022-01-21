@@ -21,6 +21,7 @@
 * [Kuketz-Blog](https://www.kuketz-blog.de/)
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [tl;dr sec](https://tldrsec.com/) #newsletter
+* [ossec Mailing list](https://seclists.org/oss-sec/)
 
 ## thread intelligence
 
@@ -33,6 +34,10 @@
 ## CI/CD
 
 ## VPN
+### VPN Services for your Privacy
+* [Mullvad VPN](https://mullvad.net/en/): Based in Sweden. Operating since 2009. Accepts Bitcoin, BCH and Cash. Native desktop and mobile clients are available for Android and iOS and are easy to use. Money back guarantee for 30 days.\nAmount of servers in Oct 2021: 763 VPN servers, in 38 different countries. Source
+* [ProtonVPN](https://protonvpn.com/): Based in Switzerland. Operating since 2016. Accepts Bitcoin, but you need an existing account or contact their support team in advance. Easy to use native desktop and mobile clients are available for Android and iOS.\n Amount of servers in Oct 2021: 1200+ VPN servers available in 55 different countries. Source
+* [IVPN](https://www.ivpn.net/): Based in Gibraltar. Operating since 2009. Accepts Bitcoin, Monero and Cash. Native desktop and mobile clients are available for Android and iOS and are easy to use. Money back guarantee for 30 days.\nAmount of servers in Oct 2021: 139 VPN servers available in 32 different countries. Source
 
 ## free stuff
 * [Publikationen des Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag](https://www.tab-beim-bundestag.de/de/publikationen/index.html) - diverse lesenswerte Berichte (Blackouts, AI, etc.)
@@ -45,7 +50,7 @@
 * [webhook.site](https://webhook.site/#!/67f35dd1-a2db-4a0d-b518-915089f6efb9)
 
 ## Malware
-* [vx-underground](https://samples.vx-underground.org/): Malware Samples and writups
+* [vx-underground](https://samples.vx-underground.org/): Malware Samples and writeups
 
 ## books
 ### fiction
@@ -86,7 +91,8 @@
  
 
 ## twitter accounts
-
+* @oss_security
+* 
 ## privacy
 
 ## dev
