@@ -48,6 +48,7 @@
 * [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [replit - free, collaborative, online IDE](https://replit.com/) - quick and easy scripts with custom domain
 * [webhook.site](https://webhook.site/#!/67f35dd1-a2db-4a0d-b518-915089f6efb9)
+* [regexploit](https://github.com/doyensec/regexploit): Find regexes which are vulnerable to Regular Expression Denial of Service (ReDoS).
 
 ## Malware
 * [vx-underground](https://samples.vx-underground.org/): Malware Samples and writeups
