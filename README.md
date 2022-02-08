@@ -52,6 +52,7 @@
 
 ## Malware
 * [vx-underground](https://samples.vx-underground.org/): Malware Samples and writeups
+* [Encyclopedia of Malware Sandbox Evasion Technisques](https://evasions.checkpoint.com/)
 
 ## books
 ### fiction
